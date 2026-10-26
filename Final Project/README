@@ -14,8 +14,8 @@ I changed the Source Date and Date of Birth into datetime.
 
 ## Findings
 ![Animals given up by animal type](images/type.png)
-This bar shows that the animals that are given up the most are dogs and cats. Will count Kittens with Cat,
-as well as Puppy with dog. I will leave them into separate categories since it helps show that younger cats
+This bar shows that the animals that are given up the most are dogs and cats. Will count Kittens with Cats,
+as well as Puppy with Dogs. I will leave them into separate categories since it helps show that younger cats
 and dogs are not given up as much.
 
 ![Sex of Animals given up](images/sex.png)
@@ -30,7 +30,7 @@ This graph does show that animals that were given up that had health condition w
 ![Dog breeds given up](images/dogbreed.png)
 The bar graph shows that a majority of breeds given up are bigger dog breeds, with the chihuahua being a outlier
 
-![Cat breeds given up](images/catbreed.png
+![Cat breeds given up](images/catbreed.png)
 The graph shows that the breed given up the most is the most common housecat breed.
 
 ## Limitations
