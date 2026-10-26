@@ -3,14 +3,19 @@ Which animal characteristics like the sex or animal species show up the most in 
 
 ## Data Source and License
 DATASET: Austin Animal Center Intakes
+
 Link: https://catalog.data.gov/dataset/austin-animal-center-intakes
+
 License: Public
+
 Privacy: 'Found Address' was dropped because it identified owners.
 
 ## Cleaning Log
 -I kept only the animals that were surrendered by ACO-Owner Surrender, Owner Surrendered, or Abandoned.
 After droping the other rows I was left with 2018 rows out of the previous 18764. 
+
 -I checked for duplicates and found 13, I took those out, leaving 2005 rows.
+
 -I changed the Source Date and Date of Birth into datetime.
 
 ## Findings
@@ -36,11 +41,16 @@ This graph does show that animals that were given up that had health condition w
 
 ## Limitations
 -One shelter, observational data
+
 -Missing birth dates and health data
+
 -Missing health condition assumed to mean none recorded
+
 -Does not show why owners surrendered animals
 
 ## How to Run
 1. Download the CSV from the link above and save it as `shelter_animals.csv` in the repo folder
-2. `pip install pandas matplotlib scipy jupyter`
-3. Open `Final_Project_Animal.ipynb` and Run All
+2. 
+3. `pip install pandas matplotlib scipy jupyter`
+4. 
+5. Open `Final_Project_Animal.ipynb` and Run All
