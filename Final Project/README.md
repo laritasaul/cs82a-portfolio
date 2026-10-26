@@ -50,7 +50,7 @@ This graph does show that animals that were given up that had health condition w
 
 ## How to Run
 1. Download the CSV from the link above and save it as `shelter_animals.csv` in the repo folder
-2. 
-3. `pip install pandas matplotlib scipy jupyter`
-4. 
-5. Open `Final_Project_Animal.ipynb` and Run All
+   
+2. `pip install pandas matplotlib scipy jupyter`
+   
+3. Open `Final_Project_Animal.ipynb` and Run All
