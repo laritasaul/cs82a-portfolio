@@ -13,7 +13,7 @@ I checked for duplicates and found 13, I took those out, leaving 2005 rows.
 I changed the Source Date and Date of Birth into datetime.
 
 ## Findings
-![Animals given up by animal type](https://raw.githubusercontent.com/laritasul/cs82a-portfolia/main/images/type.png)
+![Animals given up by animal type](https://github.com/laritasaul/cs82a-portfolio/blob/dd3dd468e4cbba416e77743042f66a8ebdfdbc5b/images/type.png)
 This bar shows that the animals that are given up the most are dogs and cats. Will count Kittens with Cat,
 as well as Puppy with dog. I will leave them into separate categories since it helps show that younger cats
 and dogs are not given up as much.
